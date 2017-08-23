@@ -7,5 +7,5 @@ void main(){
 
 	scanf("%lf", &R);
 
-	printf("A=%.4lf",PI*R*R);
+	printf("A=%.4lf\n",PI*R*R);
 }
